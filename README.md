@@ -1,6 +1,6 @@
-# Tripleten Mis Preferidos
+# Mis Preferidos
 
-Project 2: TripleTen – Mis Preferidos
+Second Project of TripleTen University
 
 This projects will show the favorite topics about coding.
 The website was created using the following HTML, CSS, GIT/GITHUB topics:
